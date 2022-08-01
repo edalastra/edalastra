@@ -16,5 +16,4 @@
 ##
 <div style="display: inline_block">
 <a target="_blank" href="https://www.linkedin.com/in/elizandro-gabriel-dalastra-925b5817a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a target="_blank" href="https://www.instagram.com/edalastra/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
