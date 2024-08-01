@@ -1,7 +1,16 @@
+👋 Hi! I am **Elizandro Dalastra**, a software developer passionate about creating innovative and efficient solutions. 🚀
 
-## Olá, bem vindo(a) ao meu perfil!
+🔭 **Currently working on:**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edalastra&show_icons=true&theme=dark)
+- Back End development
+- Chatbot integration
+- Developing low-code tools for chatbots
+
+📫 **How to reach me:**
+
+- **Email:** [elizandro.g.dalastra@gmail.com](mailto:elizandro.g.dalastra@gmail.com)
+- **LinkedIn:** [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/elizandro-gabriel-dalastra-925b5817a/)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edalastra&layout=compact&theme=dark)](https://github.com/edalastra/github-readme-stats)
 
 <div style="display: inline_block"><br>
@@ -13,7 +22,3 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
 
-##
-<div style="display: inline_block">
-<a target="_blank" href="https://www.linkedin.com/in/elizandro-gabriel-dalastra-925b5817a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
