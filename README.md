@@ -4,7 +4,6 @@
 
 - Back End development
 - Chatbot integration
-- Developing low-code tools for chatbots
 
 📫 **How to reach me:**
 
